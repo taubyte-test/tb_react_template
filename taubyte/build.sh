@@ -2,4 +2,4 @@
 
 npm i
 npm audit fix -f
-npm run build && mv build out
+npm run build && mv build/* /out
